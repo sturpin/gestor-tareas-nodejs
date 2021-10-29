@@ -1,6 +1,7 @@
 # Información :information_source:
-Aplicación de consola desarrollada en NodeJS que nos permite la gestión completa de tareas.
+Aplicación de consola desarrollada en NodeJS que nos permite realizar una gestión sencilla de tareas.
 
+# Características :package:
 ```
 =======================
  Seleccione una opción 
@@ -16,8 +17,7 @@ Aplicación de consola desarrollada en NodeJS que nos permite la gestión comple
   0. Salir
 ```
 
-# Características :package:
-La aplicación nos permite crear, listar, borrar tareas... así como establecer aleatoriamente su estado.
+:bulb: Podemos movernos fácilmente mediante los cursores o pulsando el número del menú.
 
 # Herramientas :hammer_and_wrench:
 - [NodeJS 14.x](https://nodejs.org/en/)

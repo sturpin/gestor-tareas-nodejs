@@ -70,6 +70,4 @@ const main = async() => {
     
 }
 
-
-
 main();
